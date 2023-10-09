@@ -4,6 +4,10 @@ Dashboard en Power bi.
 Relacion entre las tablas del proyecto.
 Desarrollo de reportes utilizando funciones DAX.
 Limpieza de tipos de datos y Power Query.
+# Proyecto 1
+https://www.youtube.com/watch?v=JBoqTyvPqcI&t=90s&ab_channel=StefanoZevallosReyes
+# Proyecto 2
+https://www.youtube.com/watch?v=i0wn8t3dhQo&ab_channel=StefanoZevallosReyes
 
 # Modelo entidad relación
 ![WhatsApp Image 2023-10-09 at 4 31 32 PM (1)](https://github.com/StefanoZevallos/Power_BI_Dashboards/assets/107054283/cae9d971-2f0c-45e7-bfe9-8b1ca83390d1)
